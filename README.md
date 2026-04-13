@@ -1,6 +1,12 @@
 # Sphinx > GitHub Actions > Pages
 
-### Liddle
+### Liddle skeleton project
+
+TODO tidy
+TODO add more code and content
+TODO improve build instructions
+
+## HOWTO | rough notes on howto get started
 
 - click settings to enable github pages : https://docs.github.com/en/pages/quickstart
 - add workflow permissions : https://github.com/ad-m/github-push-action/issues/96#issuecomment-889984928

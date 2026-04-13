@@ -1,3 +1,8 @@
+'''
+docs
+2025.10.28 
+0.0.4 is next release
+'''
 import os
 import sys
 sys.path.insert(0, os.path.abspath('../jl'))
@@ -5,7 +10,7 @@ sys.path.insert(0, os.path.abspath('../jl'))
 project = 'jl'
 copyright = '2025, yes'
 author = 'Master Liddle'
-release = '0.0.1'
+release = '0.0.4'
 
 
 extensions = [

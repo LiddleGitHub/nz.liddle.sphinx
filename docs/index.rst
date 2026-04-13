@@ -1,6 +1,6 @@
 .. master
 
-jl documentation
+Liddle skeleton documentation
 =================
 
 .. toctree::
@@ -17,6 +17,6 @@ Indices and tables
 * :ref:`search`
 
 .. note::
-   This is a skeleton of a project, feel free to clone.
-   Replace 'jl' with your project name when calling Sphinx initially
+   This is a Liddle skeleton of a project...
+   Done in Sphinx
 

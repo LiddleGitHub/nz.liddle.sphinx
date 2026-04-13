@@ -31,7 +31,7 @@ jobs:
           python-version: "3.10"
       # Runs a single command using the runners shell
       - name: Run a one-line script
-        run: echo Hullo, world!
+        run: echo Hu  llo, world!
 
       - name: Install dependencies
         run: |
